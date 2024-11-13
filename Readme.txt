@@ -1,0 +1,2 @@
+A very simple code that can be useful for checking existence of correct quote or sentence in txt file. It might help with articles or small texts. 
+Just open the 'sentence_finder' file and type 1 quote or more in the 'sentences' variable (as a str of course). 
